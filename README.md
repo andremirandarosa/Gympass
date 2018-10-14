@@ -1,5 +1,5 @@
 # Gympass
-### BackEnd Interview Test (App para Corrida de Kart)
+### App para Corrida de Kart
 > Autor: André Luiz Miranda da Rosa
 
 > Email: andremirandarosa@gmail.com
